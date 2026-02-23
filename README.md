@@ -82,13 +82,13 @@ Full-stack blogging platform with CRUD operations and JWT authentication.
 # 📌 Pinned Repositories
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pravinpagar290&repo=DevEvaluate&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PRATIK-RAKTATE&repo=Diagramyx&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pravinpagar290&repo=DevEvaluate&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pravinpagar290&repo=Diagramyx&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pravinpagar290&repo=Stream_Tweet&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pravinpagar290&repo=Value_Bid&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pravinpagar290&repo=Stream_Tweet&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pravinpagar290&repo=Value_Bid&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
