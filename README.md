@@ -1,6 +1,6 @@
 # Hey there 👋, Welcome to my Github Profile
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserratr&color=22EBF7&size=25&center=false&lines=hey!+its+Pravin;MERN+Stack+Developer...;Next.js+Enthusiast...;Full+Stack+Builder...;Actively+Looking+for+Internship..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserratr&color=FFFFFF&size=25&center=false&lines=hey!+its+Pravin;MERN+Stack+Developer...;Next.js+Enthusiast...;Full+Stack+Builder...;Actively+Looking+for+Internship..."/>
 
 <p>
 <i>
