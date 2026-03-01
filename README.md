@@ -117,14 +117,6 @@ const pravin = {
 
 ---
 
-## 🏆 Achievements & Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pravinpagar290&theme=algolia&no-frame=true&no-bg=true"/>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
