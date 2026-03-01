@@ -28,6 +28,22 @@
 
 ---
 
+## 👨‍💻 About Me
+
+```js
+const pravin = {
+  role        : "Full Stack Developer (MERN)",
+  education   : "IT Engineering Student",
+  focus       : ["Scalable Backends", "Clean Architecture", "Real-world Products"],
+  currentWork : ["DevEvaluate", "Diagramyx"],
+  learning    : ["Next.js", "TypeScript", "Zod", "shadcn/ui"],
+  goal        : "Land a high-impact internship & build things that matter",
+  funFact     : "I debug with console.log and I'm not ashamed 🙃"
+};
+```
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -101,6 +117,16 @@
 
 ---
 
+## 🏆 Achievements & Highlights
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=pravinpagar290&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6&title_color=00ff78)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -134,7 +160,37 @@
 
 ---
 
-## 📬 Connect With Me
+## 📅 Coding Journey Timeline
+
+```
+2022  ──▶  Started with C++ & Java fundamentals
+2023  ──▶  Discovered web dev · Built first HTML/CSS projects
+2023  ──▶  Learned JavaScript · Fell in love with React
+2024  ──▶  Went full MERN · Built Stream_Tweet & Value_Bid
+2024  ──▶  Deep-dived into system design · JWT, RBAC, REST APIs
+2025  ──▶  Building DevEvaluate & Diagramyx · Learning Next.js + TypeScript
+NOW   ──▶  Seeking internship · Writing cleaner code every day 🚀
+```
+
+---
+
+## 💡 Dev Philosophy
+
+<div align="center">
+
+> *"Ship fast, learn faster. Build things that solve real problems."*
+
+| Principle | Approach |
+|:---|:---|
+| 🏗️ Architecture First | MVC + modular structure before writing a single route |
+| 🔐 Security by Default | JWT auth & RBAC baked in from day one |
+| 📦 DRY & Reusable | Components and utilities built to be reused across projects |
+| 🚢 Ship, Then Iterate | Working software over perfect planning |
+| 📖 Always Learning | New tool or concept every week, no exceptions |
+
+</div>
+
+---
 
 ## 📬 Connect With Me
 
@@ -151,5 +207,21 @@
 <br/><br/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=14&duration=2500&pause=1000&color=00FF78&center=true&vCenter=true&multiline=true&repeat=false&width=520&height=100&lines=const+contact+%3D+%7B;&nbsp;&nbsp;linkedin%3A+%22pravin-pagar-33b350320%22%2C;&nbsp;&nbsp;email%3A+%22pravinpagar290%40gmail.com%22%2C;&nbsp;&nbsp;status%3A+%22open_to_internships+%E2%9C%85%22+%7D%3B)
+
+</div>
+
+---
+
+<div align="center">
+
+```js
+while (true) {
+  build();
+  learn();
+  improve();
+}
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:00ff78&height=120&section=footer&animation=fadeIn" />
 
 </div>
