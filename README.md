@@ -119,11 +119,9 @@ const pravin = {
 
 ## 🏆 Achievements & Highlights
 
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=pravinpagar290&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6&title_color=00ff78)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy-sigma-five.vercel.app/?username=pravinpagar290&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6"/>
+</p>
 
 ---
 
@@ -163,12 +161,11 @@ const pravin = {
 ## 📅 Coding Journey Timeline
 
 ```
-2022  ──▶  Started with C++ & Java fundamentals
 2023  ──▶  Discovered web dev · Built first HTML/CSS projects
-2023  ──▶  Learned JavaScript · Fell in love with React
-2024  ──▶  Went full MERN · Built Stream_Tweet & Value_Bid
-2024  ──▶  Deep-dived into system design · JWT, RBAC, REST APIs
-2025  ──▶  Building DevEvaluate & Diagramyx · Learning Next.js + TypeScript
+2024  ──▶  Learned JavaScript · Fell in love with React
+2025  ──▶  Went full MERN · Built Stream_Tweet & Value_Bid
+2025  ──▶  Deep-dived into system design · JWT, RBAC, REST APIs
+2026  ──▶  Building DevEvaluate & Diagramyx · Learning Next.js + TypeScript
 NOW   ──▶  Seeking internship · Writing cleaner code every day 🚀
 ```
 
