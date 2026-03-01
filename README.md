@@ -120,7 +120,7 @@ const pravin = {
 ## 🏆 Achievements & Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy-sigma-five.vercel.app/?username=pravinpagar290&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pravinpagar290&theme=algolia&no-frame=true&no-bg=true"/>
 </p>
 
 ---
