@@ -1,143 +1,165 @@
-# Hey there 👋, Welcome to my Github Profile
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserratr&color=00FF00&size=35&center=false&lines=Hey!+Its+Pravin;MERN+Stack+Developer...;Next.js+Enthusiast...;Full+Stack+Builder...;Actively+Looking+for+Internship..."/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff78,100:00eaff&height=200&section=header&text=Hey,%20I'm%20Pravin%20👋&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Builder&descAlignY=56&descColor=c8f5e0&animation=fadeIn" />
 
-<p>
-<i>
-IT Engineering Student | MERN Stack Developer  
-Building scalable full-stack applications with strong backend architecture and modern frontend systems.  
-Focused on production-grade applications and real-world problem solving.
-</i>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=18&duration=2800&pause=1000&color=00FF78&center=true&vCenter=true&width=520&lines=MERN+Stack+Developer+%F0%9F%9A%80;Next.js+%2B+TypeScript+Enthusiast+%F0%9F%A7%A0;Full+Stack+Builder+%F0%9F%8F%97%EF%B8%8F;Actively+Seeking+Internship+%F0%9F%8E%AF" alt="Typing SVG" />
+
+</div>
 
 ---
 
-# ⚡ Quick Recruiter Snapshot
+<div align="center">
 
-- 💼 Role: Full Stack (MERN) Developer  
-- 🚀 Currently Building: DevEvaluate, Diagramyx  
-- 🧠 Learning: Next.js, TypeScript, Zod, shadcn/ui  
-- 🎯 Looking For: Internship Opportunities  
-- 🏗️ Focus: Scalable Backend APIs + Clean Frontend Architecture  
+*IT Engineering Student | Building scalable full-stack applications with strong backend architecture and modern frontend systems. Focused on production-grade applications and real-world problem solving.*
+
+</div>
 
 ---
 
-# 🧠 System Design Focus
+## ⚡ Quick Recruiter Snapshot
 
-- JWT-based Authentication & Role-Based Access Control  
-- RESTful API Design  
-- MVC & Modular Architecture  
-- State Management (Redux Toolkit)  
-- Realtime Systems  
-- Scalable MongoDB Schema Design  
-- Performance Optimization  
+<div align="center">
 
----
+| 💼 Role | 🚀 Currently Building | 🧠 Learning | 🎯 Status |
+|:---:|:---:|:---:|:---:|
+| Full Stack (MERN) Developer | DevEvaluate, Diagramyx | Next.js · TypeScript · Zod · shadcn/ui | 🟢 Seeking Internship |
 
-# 🛠️ Tech Stack
-
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=java)
-![C++](https://img.shields.io/badge/C++-05122A?style=flat&logo=cplusplus)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/Express-05122A?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-05122A?style=flat&logo=next.js)
-![Redux](https://img.shields.io/badge/Redux-05122A?style=flat&logo=redux)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-05122A?style=flat&logo=tailwind-css)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)
-![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman)
+</div>
 
 ---
 
-# 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-### 🔹 DevEvaluate (Working)
-MERN-based video interview and evaluation platform with authentication, analytics, and role-based dashboards.
+<div align="center">
 
-### 🔹 Diagramyx (Working)
-Interactive developer-focused canvas platform built using Next.js + TypeScript.
+**// Languages**
 
-### 🔹 StreamTweet
-Real-time tweet streaming & visualization platform (MERN + Redux).
+![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Java](https://img.shields.io/badge/Java-05122A?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![C++](https://img.shields.io/badge/C++-05122A?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 
-### 🔹 ValueBid
-Auction-based bidding system with secure authentication and role control.
+**// Backend**
 
-### 🔹 MegaBlog
-Full-stack blogging platform with CRUD operations and JWT authentication.
+![Node.js](https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express.js-05122A?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
----
+**// Frontend**
 
-# 📌 Pinned Repositories
+![React](https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-05122A?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-05122A?style=for-the-badge&logo=redux&logoColor=764ABC)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-05122A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pravinpagar290&repo=DevEvaluate&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PRATIK-RAKTATE&repo=Diagramyx&theme=tokyonight&hide_border=true"/>
-</p>
+**// Tools**
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pravinpagar290&repo=Stream_Tweet&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pravinpagar290&repo=Value_Bid&theme=tokyonight&hide_border=true"/>
-</p>
+![Git](https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-05122A?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Postman](https://img.shields.io/badge/Postman-05122A?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pravinpagar290&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pravinpagar290&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pravinpagar290&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-# 🗓️ 3D Contribution Calendar
+## 🧠 System Design Focus
 
-<p align="center">
-  <img src="https://github.com/platane/platane/raw/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<div align="center">
+
+![JWT Auth](https://img.shields.io/badge/▹_JWT_Auth_%26_RBAC-00ff78?style=flat-square&labelColor=050a0f&color=050a0f&logoColor=00ff78)
+![REST APIs](https://img.shields.io/badge/▹_RESTful_API_Design-00ff78?style=flat-square&labelColor=050a0f&color=050a0f)
+![MVC](https://img.shields.io/badge/▹_MVC_%26_Modular_Architecture-00ff78?style=flat-square&labelColor=050a0f&color=050a0f)
+![Redux](https://img.shields.io/badge/▹_Redux_State_Management-00ff78?style=flat-square&labelColor=050a0f&color=050a0f)
+![Realtime](https://img.shields.io/badge/▹_Realtime_Systems-00ff78?style=flat-square&labelColor=050a0f&color=050a0f)
+![MongoDB](https://img.shields.io/badge/▹_Scalable_MongoDB_Schemas-00ff78?style=flat-square&labelColor=050a0f&color=050a0f)
+![Performance](https://img.shields.io/badge/▹_Performance_Optimization-00ff78?style=flat-square&labelColor=050a0f&color=050a0f)
+
+</div>
 
 ---
 
-# 🔥 Activity Graph
+## 🚀 Featured Projects
 
-<p align="center">
-<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=pravinpagar290&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
+<div align="center">
+
+<a href="https://github.com/pravinpagar290/DevEvaluate">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pravinpagar290&repo=DevEvaluate&theme=tokyonight&hide_border=true&border_radius=2&title_color=00ff78&icon_color=00eaff" />
+</a>
+<a href="https://github.com/PRATIK-RAKTATE/Diagramyx">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PRATIK-RAKTATE&repo=Diagramyx&theme=tokyonight&hide_border=true&border_radius=2&title_color=00ff78&icon_color=00eaff" />
+</a>
+
+<a href="https://github.com/pravinpagar290/Stream_Tweet">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pravinpagar290&repo=Stream_Tweet&theme=tokyonight&hide_border=true&border_radius=2&title_color=00ff78&icon_color=00eaff" />
+</a>
+<a href="https://github.com/pravinpagar290/Value_Bid">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pravinpagar290&repo=Value_Bid&theme=tokyonight&hide_border=true&border_radius=2&title_color=00ff78&icon_color=00eaff" />
+</a>
+
+</div>
 
 ---
 
-# 📬 Connect With Me
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pravinpagar290&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff78&text_color=c8f5e0&icon_color=00eaff&border_radius=2" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pravinpagar290&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff78&fire=00eaff&currStreakLabel=00ff78&border_radius=2" />
+
+<img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pravinpagar290&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff78&text_color=c8f5e0&border_radius=2" />
+
+</div>
+
+---
+
+## 🗓️ Contribution Snake
+
+<div align="center">
+
+<img src="https://github.com/platane/platane/raw/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+## 🔥 Activity Graph
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=pravinpagar290&theme=tokyo-night&hide_border=true&area=true&color=00ff78&line=00eaff&point=ffffff" />
+
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/pravin-pagar-33b350320/">
-<img src="https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Pravin%20Pagar-05122A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+&nbsp;
+<a href="mailto:pravinpagar290@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-pravinpagar290-05122A?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 
-<a href="mailto:pravinpagar290@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-05122A?style=flat&logo=gmail"/>
-</a>
+</div>
 
 ---
 
+<div align="center">
+
 ```js
-while(true){
-   build();
-   learn();
-   improve();
+while (true) {
+  build();
+  learn();
+  improve();
 }
 ```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:00ff78&height=120&section=footer&animation=fadeIn" />
+
+</div>
