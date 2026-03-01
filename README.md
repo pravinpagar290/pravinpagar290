@@ -136,7 +136,17 @@
 
 ## 📬 Connect With Me
 
+## 📬 Connect With Me
+
 <div align="center">
+```js
+// Let's build something together 🚀
+const contact = {
+  linkedin : "pravin-pagar-33b350320",
+  email    : "pravinpagar290@gmail.com",
+  status   : "open_to_internships ✅"
+};
+```
 
 <a href="https://www.linkedin.com/in/pravin-pagar-33b350320/">
   <img src="https://img.shields.io/badge/LinkedIn-Pravin%20Pagar-05122A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
@@ -146,20 +156,8 @@
   <img src="https://img.shields.io/badge/Gmail-pravinpagar290-05122A?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-```js
-while (true) {
-  build();
-  learn();
-  improve();
-}
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:00ff78&height=120&section=footer&animation=fadeIn" />
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=14&duration=3000&pause=800&color=00FF78&center=true&vCenter=true&width=480&lines=Open+to+internships+%26+collaborations+%F0%9F%A4%9D;Drop+a+mail+or+connect+on+LinkedIn+%F0%9F%93%AC;Let%27s+build+something+awesome+together+%F0%9F%9A%80)
 
 </div>
