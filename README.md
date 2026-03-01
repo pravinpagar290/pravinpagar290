@@ -139,14 +139,6 @@
 ## 📬 Connect With Me
 
 <div align="center">
-```js
-// Let's build something together 🚀
-const contact = {
-  linkedin : "pravin-pagar-33b350320",
-  email    : "pravinpagar290@gmail.com",
-  status   : "open_to_internships ✅"
-};
-```
 
 <a href="https://www.linkedin.com/in/pravin-pagar-33b350320/">
   <img src="https://img.shields.io/badge/LinkedIn-Pravin%20Pagar-05122A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
@@ -156,8 +148,8 @@ const contact = {
   <img src="https://img.shields.io/badge/Gmail-pravinpagar290-05122A?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 
-<br/>
+<br/><br/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=14&duration=3000&pause=800&color=00FF78&center=true&vCenter=true&width=480&lines=Open+to+internships+%26+collaborations+%F0%9F%A4%9D;Drop+a+mail+or+connect+on+LinkedIn+%F0%9F%93%AC;Let%27s+build+something+awesome+together+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=14&duration=2500&pause=1000&color=00FF78&center=true&vCenter=true&multiline=true&repeat=false&width=520&height=100&lines=const+contact+%3D+%7B;&nbsp;&nbsp;linkedin%3A+%22pravin-pagar-33b350320%22%2C;&nbsp;&nbsp;email%3A+%22pravinpagar290%40gmail.com%22%2C;&nbsp;&nbsp;status%3A+%22open_to_internships+%E2%9C%85%22+%7D%3B)
 
 </div>
